@@ -4,7 +4,7 @@
 🚀 **Aspiring Software Engineer | Full-Stack Developer | MERN & Java Enthusiast**
 
 Passionate about leveraging **JavaScript (React, Node.js)** and **Java** to build scalable and interactive web applications.
-My goal is to become a versatile engineer capable of creating efficient, high-quality software solutions.
+My goal is to become a versatile engineer capable of creating efficient, visionary, long term high-quality software solutions.
 
 
 
