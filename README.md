@@ -27,7 +27,7 @@ I am a passionate computer science student driven by the desire to build and sec
 | Frontend | React, HTML5, CSS3, Tailwind CSS |
 | Backend & APIs | Node.js, Express.js, REST APIs |
 | Databases | MongoDB (NoSQL), MS SQL |
-| Operating Systems & Tools | Kali Linux (Command Line), Security Concepts, Git, GitHub, VS Code, npm |
+| Operating Systems & Tools | Kali Linux (CLI), Security Concepts, Git, GitHub, VS Code, npm, vite |
 
 
 
