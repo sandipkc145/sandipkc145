@@ -34,7 +34,7 @@ I am a passionate computer science student driven by the desire to build and sec
 ## 📂 Portfolio Highlight
 Check out my work and detailed project repositories:  
 
-**Portfolio Website:** [Sandip's Portfolio](https://sandipkc145.github.io/portfolio/) – A showcase of key projects, technical abilities, and professional focus.
+**Portfolio Website:** [Sandip's Portfolio](https://sandipkc145.github.io) – A showcase of key projects, technical abilities, and professional focus.
 
 
 
