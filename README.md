@@ -50,4 +50,6 @@ I'm always open to discussing new opportunities, collaborations, or innovative i
 
 - **Email:** [kc.sandip7777@gmail.com](mailto:kc.sandip7777@gmail.com)  
 - **LinkedIn:** [https://www.linkedin.com/in/sandipkc145/](https://www.linkedin.com/in/sandipkc145/)  
-- **GitHub:** [https://github.com/sandipkc145](https://github.com/sandipkc145)  
+- **GitHub:** [https://github.com/sandipkc145](https://github.com/sandipkc145)
+
+- ## 🙏 Thank You for Visiting
